@@ -4,8 +4,8 @@
 > code sent to an inbox they don't control. CV5 shows them that code within
 > seconds, only theirs, and never hands over the inbox password.
 
-**Status:** in production on more than 80 domains ·
-**Proprietary system** by Kusarive Solutions LLC ·
+**Status:** in production ·
+**Proprietary system** by Grupos Digitales ·
 [Versión en español](README.md) ·
 [Presentation page](https://rjblancos.github.io/cv5-showcase/)
 
@@ -133,17 +133,17 @@ Real figures from the installs in production, read on 27-Oct-2026:
 - **More than 717,000 lookups** served since May 2025.
 - **More than 466,000 codes delivered.**
 - **More than 35,000 lookups** in the last 30 days.
-- **More than 80 domains**, with 860 users and 2,300 authorized emails.
+- **860 users** and **2,300 authorized emails**.
 
 ## Want your own code portal?
 
 We install it on your domain with your brand, your inboxes and your platforms,
 and we keep it up to date.
 
-Rafael Blanco, for Kusarive Solutions LLC
+Rafael Blanco, for Grupos Digitales
 
-- Web: [kusarive.us](https://kusarive.us)
-- Email: info@kusarive.us
-- WhatsApp: [+1 407 337 0061](https://wa.me/14073370061)
+- Web: [gruposdigitales.com](https://gruposdigitales.com)
+- Email: info@gruposdigitales.com
+- WhatsApp: [+1 317 779 0136](https://wa.me/13177790136)
 
-© 2026 Kusarive Solutions LLC. See [LICENSE](LICENSE).
+© 2026 Grupos Digitales. See [LICENSE](LICENSE).

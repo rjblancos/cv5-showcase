@@ -4,8 +4,8 @@
 > que llega a un correo que él no controla. CV5 le enseña ese código en
 > segundos, solo el suyo y sin darle nunca la contraseña del correo.
 
-**Estado:** en producción en más de 80 dominios ·
-**Sistema propietario** de Kusarive Solutions LLC ·
+**Estado:** en producción ·
+**Sistema propietario** de Grupos Digitales ·
 [English version](README.en.md) ·
 [Página de presentación](https://rjblancos.github.io/cv5-showcase/)
 
@@ -136,17 +136,17 @@ Cifras reales de las instalaciones en producción, leídas el 27-oct-2026:
 - **Más de 717.000 consultas** atendidas desde mayo de 2025.
 - **Más de 466.000 códigos entregados.**
 - **Más de 35.000 consultas** en los últimos 30 días.
-- **Más de 80 dominios**, con 860 usuarios y 2.300 correos autorizados.
+- **860 usuarios** y **2.300 correos autorizados**.
 
 ## ¿Quieres tu portal de códigos?
 
 Lo instalamos en tu dominio con tu marca, tus buzones y tus plataformas, y lo
 mantenemos al día.
 
-Rafael Blanco, para Kusarive Solutions LLC
+Rafael Blanco, para Grupos Digitales
 
-- Web: [kusarive.us](https://kusarive.us)
-- Correo: info@kusarive.us
-- WhatsApp: [+1 407 337 0061](https://wa.me/14073370061)
+- Web: [gruposdigitales.com](https://gruposdigitales.com)
+- Correo: info@gruposdigitales.com
+- WhatsApp: [+1 317 779 0136](https://wa.me/13177790136)
 
-© 2026 Kusarive Solutions LLC. Ver [LICENSE](LICENSE).
+© 2026 Grupos Digitales. Ver [LICENSE](LICENSE).
