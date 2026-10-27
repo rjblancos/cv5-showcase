@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CV5 · Kusarive Solutions LLC</title>
+<meta name="description" content="Portal de códigos de verificación: tu cliente ve su código en segundos, solo el suyo y sin la contraseña del correo.">
+<style>
+:root{--bg:#fafaf7;--card:#fff;--txt:#1d1d1b;--suave:#5c5c57;--linea:#e7e5df;--acento:#6d28d9;--acento-txt:#ffffff;--ok:#18794e}
+@media (prefers-color-scheme:dark){:root{--bg:#121211;--card:#1c1c1a;--txt:#efeee9;--suave:#a3a29b;--linea:#2e2d2a;--acento:#a78bfa;--ok:#4cc38a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.envoltura{max-width:1040px;margin:0 auto;padding:0 16px}
+header{padding:28px 0 8px;display:flex;justify-content:space-between;align-items:center;gap:12px}
+.marca{font-weight:800;font-size:1.15rem;letter-spacing:-.01em}
+.marca span{background:var(--acento);color:var(--acento-txt);border-radius:6px;padding:2px 7px;margin-right:6px}
+.idioma button{background:none;border:1px solid var(--linea);color:var(--txt);border-radius:999px;padding:4px 12px;cursor:pointer;font:inherit;font-size:.85rem}
+.idioma button[aria-pressed=true]{background:var(--txt);color:var(--bg)}
+.portada{padding:48px 0 24px}
+h1{font-size:clamp(2rem,5vw,3.2rem);line-height:1.1;margin:0 0 16px;letter-spacing:-.02em}
+.lema{font-size:1.15rem;color:var(--suave);max-width:680px;margin:0}
+.estado{display:inline-flex;align-items:center;gap:8px;margin-top:20px;font-size:.9rem;color:var(--suave)}
+.estado i{width:9px;height:9px;border-radius:50%;background:var(--ok);display:inline-block}
+.cifras{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin:32px 0 8px}
+.cifra{background:var(--card);border:1px solid var(--linea);border-radius:14px;padding:18px 20px}
+.cifra b{display:block;font-size:2rem;letter-spacing:-.02em}
+.cifra small{color:var(--suave)}
+.nota{font-size:.82rem;color:var(--suave);margin:4px 0 0}
+h2{font-size:1.5rem;margin:56px 0 16px;letter-spacing:-.01em}
+.rejilla{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.bloque{background:var(--card);border:1px solid var(--linea);border-radius:14px;padding:18px 20px}
+.bloque h3{margin:0 0 6px;font-size:1.02rem}
+.bloque p{margin:0;color:var(--suave);font-size:.95rem}
+.capturas{display:grid;grid-template-columns:2fr 1fr;gap:14px;align-items:start}
+.capturas figure{margin:0}
+.capturas img{width:100%;height:auto;border-radius:12px;border:1px solid var(--linea);display:block}
+.capturas figcaption{font-size:.85rem;color:var(--suave);margin-top:6px}
+.pila{display:grid;gap:14px}
+.flujo{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.95rem}
+.flujo span{background:var(--card);border:1px solid var(--linea);border-radius:10px;padding:8px 12px}
+.flujo em{color:var(--suave);font-style:normal}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--linea);border-radius:14px;overflow:hidden}
+td{padding:12px 16px;border-top:1px solid var(--linea);vertical-align:top;font-size:.95rem}
+tr:first-child td{border-top:0}
+td:first-child{font-weight:700;white-space:nowrap;width:1%}
+.contacto{background:var(--card);border:1px solid var(--linea);border-radius:14px;padding:22px;display:flex;flex-wrap:wrap;gap:12px 28px;align-items:center}
+.contacto a{color:var(--txt);font-weight:600}
+.boton{background:var(--acento);color:var(--acento-txt)!important;text-decoration:none;border-radius:10px;padding:10px 16px}
+footer{padding:40px 0;color:var(--suave);font-size:.85rem}
+[data-en]{display:none}
+html[lang=en] [data-es]{display:none}
+html[lang=en] [data-en]{display:revert}
+html[lang=en] .cifra b[data-en]{display:block}
+@media (max-width:720px){.capturas{grid-template-columns:1fr}td:first-child{white-space:normal}}
+.ancha{margin:24px 0 8px}.ancha img{width:100%;height:auto;border-radius:14px;border:1px solid var(--linea);display:block}
+.cta{background:var(--card);border:1px solid var(--linea);border-radius:14px;padding:28px;margin-top:8px}
+.cta h3{margin:0 0 6px;font-size:1.3rem}.cta p{margin:0 0 16px;color:var(--suave)}
+.movil{display:flex;gap:14px}.movil figure{flex:1}
+.portadas-movil{display:none}
+@media (max-width:700px){.ancha{display:none}.portadas-movil{display:grid;gap:14px;margin:20px 0 8px}
+.portadas-movil img{width:100%;height:auto;border-radius:12px;border:1px solid var(--linea);display:block}
+.portadas-movil figcaption{font-weight:700;margin-top:6px}}
+</style>
+</head>
+<body>
+<div class="envoltura">
+<header>
+  <div class="marca"><span>CV5</span><span style="background:none;color:inherit;padding:0" data-es>Portal de códigos</span><span style="background:none;color:inherit;padding:0" data-en>Code portal</span></div>
+  <div class="idioma" role="group" aria-label="Idioma / Language">
+    <button type="button" data-l="es" aria-pressed="true">ES</button>
+    <button type="button" data-l="en" aria-pressed="false">EN</button>
+  </div>
+</header>
+
+<section class="portada">
+  <h1 data-es>El código de verificación de tu cliente, en segundos y sin darle tu correo.</h1><h1 data-en>Your customer's verification code, within seconds, without handing over your inbox.</h1>
+  <p class="lema" data-es>Tu cliente compró acceso a un servicio digital y el código le llega a un buzón que no controla. CV5 se lo enseña al momento: solo el suyo, con tu marca y sin la contraseña del correo.</p><p class="lema" data-en>Your customer bought access to a digital service and the code lands in an inbox they don't control. CV5 shows it to them right away: only theirs, under your brand, without the inbox password.</p>
+  <div class="estado"><i></i><span data-es>En producción en más de 80 dominios · Sistema propietario de Kusarive Solutions LLC</span><span data-en>In production on more than 80 domains · Proprietary system by Kusarive Solutions LLC</span></div>
+  <div class="cifras">
+    <div class="cifra"><b data-es>+717.000</b><b data-en>717,000+</b><small data-es>consultas atendidas</small><small data-en>lookups served</small></div>
+    <div class="cifra"><b data-es>+466.000</b><b data-en>466,000+</b><small data-es>códigos entregados</small><small data-en>codes delivered</small></div>
+    <div class="cifra"><b data-es>+35.000</b><b data-en>35,000+</b><small data-es>consultas en los últimos 30 días</small><small data-en>lookups in the last 30 days</small></div>
+  </div>
+  <p class="nota" data-es>Cifras reales de las instalaciones en producción, leídas el 27-oct-2026. Consultas contadas desde mayo de 2025.</p><p class="nota" data-en>Real figures from the installs in production, read on 27-Oct-2026. Lookups counted since May 2025.</p>
+</section>
+
+<div class="ancha" style="max-width:820px;margin-left:auto;margin-right:auto"><img src="capturas/consulta-codigo.jpg" alt="Consulta de un código / Looking up a code" width="1600" height="1000"></div>
+<p class="nota" data-es>El cliente escribe el correo de su cuenta y la plataforma; CV5 le muestra el código. Marcas y datos inventados.</p><p class="nota" data-en>The customer types their account email and the platform; CV5 shows the code. Made-up brands and data.</p>
+
+<h2 data-es>Qué hace</h2><h2 data-en>What it does</h2>
+<div class="rejilla">
+  <div class="bloque"><h3 data-es>Código en segundos</h3><h3 data-en>Code within seconds</h3>
+    <p data-es>Lee el buzón por IMAP, encuentra el aviso más reciente y resalta el código o el botón del enlace.</p><p data-en>Reads the inbox over IMAP, finds the latest notice and highlights the code or the link button.</p></div>
+  <div class="bloque"><h3 data-es>Permisos finos</h3><h3 data-en>Fine-grained permissions</h3>
+    <p data-es>Cada cliente ve solo sus correos, plataformas y asuntos asignados. Lo ajeno no se muestra.</p><p data-en>Each customer only sees their assigned emails, platforms and subjects. Anything else stays hidden.</p></div>
+  <div class="bloque"><h3 data-es>Extracción inteligente</h3><h3 data-en>Smart extraction</h3>
+    <p data-es>Reglas por plataforma que distinguen el código de años, pies de página y otros números.</p><p data-en>Per-platform rules that tell the code apart from years, footers and other numbers.</p></div>
+  <div class="bloque"><h3 data-es>Web y chat</h3><h3 data-en>Web and chat</h3>
+    <p data-es>Bots de mensajería con el mismo motor, los mismos permisos y el mismo resultado que la web.</p><p data-en>Chat bots with the same engine, permissions and result as the web.</p></div>
+  <div class="bloque"><h3 data-es>Panel en tiempo real</h3><h3 data-en>Real-time dashboard</h3>
+    <p data-es>Búsquedas, tasa de éxito, códigos entregados y tendencias reales, con registro de cada consulta.</p><p data-en>Searches, success rate, codes delivered and real trends, with a log of every lookup.</p></div>
+  <div class="bloque"><h3 data-es>Con tu marca</h3><h3 data-en>Under your brand</h3>
+    <p data-es>Nombre, textos, enlaces y contacto propios, en tu dominio.</p><p data-en>Your own name, texts, links and contact, on your domain.</p></div>
+</div>
+
+<h2 data-es>Capturas</h2><h2 data-en>Screenshots</h2>
+<div class="capturas">
+  <div class="pila">
+    <figure><img src="capturas/panel-tablero.jpg" alt="Panel / Dashboard" loading="lazy" width="1600" height="1125"><figcaption data-es>Panel en tiempo real con tendencias calculadas.</figcaption><figcaption data-en>Real-time dashboard with computed trends.</figcaption></figure>
+    <figure><img src="capturas/panel-correos-autorizados.jpg" alt="Correos autorizados / Authorized emails" loading="lazy" width="1600" height="1125"><figcaption data-es>Correos autorizados, con titular y vencimiento.</figcaption><figcaption data-en>Authorized emails, with owner and expiry.</figcaption></figure>
+    <figure><img src="capturas/panel-permisos.jpg" alt="Permisos / Permissions" loading="lazy" width="1600" height="1125"><figcaption data-es>Permisos por usuario: correos, plataformas y asuntos.</figcaption><figcaption data-en>Per-user permissions: emails, platforms and subjects.</figcaption></figure>
+    <figure><img src="capturas/panel-registros.jpg" alt="Registro / Log" loading="lazy" width="1600" height="1125"><figcaption data-es>Registro de consultas con buscador.</figcaption><figcaption data-en>Searchable lookup log.</figcaption></figure>
+  </div>
+  <div class="pila">
+    <figure><img src="capturas/movil.jpg" alt="Móvil / Mobile" loading="lazy" width="520" height="1125"><figcaption data-es>La consulta en el móvil.</figcaption><figcaption data-en>A lookup on mobile.</figcaption></figure>
+    <figure><img src="capturas/consulta-sin-permiso.jpg" alt="Sin permiso / No permission" loading="lazy" width="800" height="620"><figcaption data-es>Un correo no asignado no muestra nada.</figcaption><figcaption data-en>An unassigned email shows nothing.</figcaption></figure>
+    <figure><img src="capturas/entrada.jpg" alt="Entrada / Sign-in" loading="lazy" width="1600" height="750"><figcaption data-es>Entrada del cliente.</figcaption><figcaption data-en>Customer sign-in.</figcaption></figure>
+  </div>
+</div>
+<p class="nota" data-es>Tienda de demostración: plataformas, correos y clientes inventados.</p><p class="nota" data-en>Demo store: made-up platforms, emails and customers.</p>
+
+<h2 data-es>Garantías técnicas</h2><h2 data-en>Technical guarantees</h2>
+<table>
+  <tr><td data-es>Privacidad</td><td data-en>Privacy</td><td><span data-es>Nadie ve la contraseña del buzón; cada consulta comprueba los permisos en el servidor.</span><span data-en>Nobody sees the inbox password; every lookup checks permissions on the server.</span></td></tr>
+  <tr><td data-es>Seguridad</td><td data-en>Security</td><td><span data-es>CSRF, sesión regenerada al entrar y límites de intentos fallidos y de consultas seguidas.</span><span data-en>CSRF, session regenerated on sign-in, and limits on failed sign-ins and rapid-fire lookups.</span></td></tr>
+  <tr><td data-es>Fiabilidad</td><td data-en>Reliability</td><td><span data-es>Si un servidor de correo no responde, se sigue con los demás; un error al registrar nunca deja al cliente sin respuesta.</span><span data-en>If a mail server is down, the lookup carries on with the others; a logging error never leaves the customer without an answer.</span></td></tr>
+  <tr><td data-es>Coherencia</td><td data-en>Consistency</td><td><span data-es>Web y bots comparten el extractor, verificado en toda la flota con correos de prueba.</span><span data-en>Web and bots share the extractor, verified across the fleet with test emails.</span></td></tr>
+  <tr><td data-es>Diseño</td><td data-en>Design</td><td><span data-es>Comprobado de 360 a 1920 px, sin desbordes ni palabras partidas.</span><span data-en>Checked from 360 to 1920 px, with no overflow or split words.</span></td></tr>
+</table>
+
+<h2 data-es>Construido con</h2><h2 data-en>Built with</h2>
+<table>
+  <tr><td>PHP</td><td><span data-es>Portal, panel, motor de consulta, extractor, bots, instalador y migraciones (21.700 líneas).</span><span data-en>Portal, dashboard, lookup engine, extractor, bots, installer and migrations (21,700 lines).</span></td></tr>
+  <tr><td>CSS</td><td><span data-es>La interfaz del portal y del panel (1.800 líneas).</span><span data-en>The portal and dashboard interface (1,800 lines).</span></td></tr>
+  <tr><td>SQL</td><td><span data-es>El esquema (120 líneas).</span><span data-en>The schema (120 lines).</span></td></tr>
+</table>
+
+<h2 data-es>¿Quieres tu portal de códigos?</h2><h2 data-en>Want your own code portal?</h2>
+<div class="cta">
+  <h3 data-es>Lo instalamos en tu dominio</h3><h3 data-en>We install it on your domain</h3>
+  <p data-es>Con tu marca, tus buzones y tus plataformas, y lo mantenemos al día.</p><p data-en>With your brand, your inboxes and your platforms, and we keep it up to date.</p>
+  <div class="contacto" style="border:0;padding:0;background:none">
+    <div><strong>Rafael Blanco</strong><br><span data-es>para Kusarive Solutions LLC</span><span data-en>for Kusarive Solutions LLC</span></div>
+    <a href="https://kusarive.us">kusarive.us</a>
+    <a href="mailto:info@kusarive.us">info@kusarive.us</a>
+    <a class="boton" href="https://wa.me/14073370061">WhatsApp +1 407 337 0061</a>
+  </div>
+</div>
+
+<footer>© 2026 Kusarive Solutions LLC.</footer>
+</div>
+
+<script>
+(function(){
+  var html=document.documentElement;
+  function poner(l){
+    html.lang=l;
+    document.querySelectorAll('.idioma button').forEach(function(b){b.setAttribute('aria-pressed',b.dataset.l===l)});
+    try{localStorage.setItem('idioma',l)}catch(e){}
+  }
+  document.querySelectorAll('.idioma button').forEach(function(b){b.addEventListener('click',function(){poner(b.dataset.l)})});
+  var g=null;try{g=localStorage.getItem('idioma')}catch(e){}
+  poner(g||((navigator.language||'es').slice(0,2)==='en'?'en':'es'));
+})();
+</script>
+</body>
+</html>
