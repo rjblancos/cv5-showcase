@@ -8,7 +8,7 @@
 **Sistema propietario** de Grupos Digitales ·
 [English version](README.en.md) ·
 [Página de presentación](https://rjblancos.github.io/cv5-showcase/) ·
-**[Descargar la presentación en PDF](presentacion/CV5-presentacion.pdf)** (19 diapositivas)
+**[Descargar la presentación en PDF](presentacion/CV5-presentacion.pdf)** (14 diapositivas)
 
 ---
 
@@ -149,6 +149,6 @@ Rafael Blanco, para Grupos Digitales
 - Web: [gruposdigitales.com](https://gruposdigitales.com)
 - Correo: info@gruposdigitales.com
 - WhatsApp: [+1 317 779 0136](https://wa.me/13177790136)
-- Presentación: [PDF de 19 diapositivas](presentacion/CV5-presentacion.pdf)
+- Presentación: [PDF de 14 diapositivas](presentacion/CV5-presentacion.pdf)
 
 © 2026 Grupos Digitales. Ver [LICENSE](LICENSE).
