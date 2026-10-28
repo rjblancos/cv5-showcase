@@ -138,18 +138,29 @@ Real figures from the installs in production, read on 27-Oct-2026:
 
 ## Want your own code portal?
 
-We install it on your domain with your brand, your inboxes and your platforms,
-and we keep it up to date.
+It is bought directly from the Grupos Digitales store, in the **Sistemas Web**
+category: [gruposdigitales.com/store/sistemas-web](https://gruposdigitales.com/store/sistemas-web). We install it on
+your domain with your brand, your inboxes and your platforms, and we keep it up
+to date.
+
+**What you need:** web hosting and your own domain. We recommend *DMCA-ignored*
+hosting, which does not take the site down on copyright notices.
+
+**Videos:** presentations and tutorials of the system in
+[this YouTube playlist](https://youtube.com/playlist?list=PLyDRJN_qrsyXe7OHqQV_w7kECBchg8sZR) (in Spanish).
 
 Rafael Blanco, for Grupos Digitales
 
+- Buy: [gruposdigitales.com/store/sistemas-web](https://gruposdigitales.com/store/sistemas-web)
 - Web: [gruposdigitales.com](https://gruposdigitales.com)
 - Email: info@gruposdigitales.com
 - WhatsApp: [+1 317 779 0136](https://wa.me/13177790136)
+- Videos: [YouTube playlist](https://youtube.com/playlist?list=PLyDRJN_qrsyXe7OHqQV_w7kECBchg8sZR)
 - Presentation: [14-slide PDF](presentacion/CV5-presentacion.pdf) (in Spanish)
 
 ## What's new
 
+- **27-Oct-2026** · It can now be bought directly from the Grupos Digitales store, and there is a playlist with presentations and tutorials.
 - **27-Oct-2026** · Showcase published, with a downloadable PDF presentation.
 
 Full log: [CHANGELOG.md](CHANGELOG.md).

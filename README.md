@@ -141,18 +141,29 @@ Cifras reales de las instalaciones en producción, leídas el 27-oct-2026:
 
 ## ¿Quieres tu portal de códigos?
 
-Lo instalamos en tu dominio con tu marca, tus buzones y tus plataformas, y lo
+Se compra directamente en la tienda de Grupos Digitales, en la categoría
+**Sistemas Web**: [gruposdigitales.com/store/sistemas-web](https://gruposdigitales.com/store/sistemas-web). Lo
+instalamos en tu dominio con tu marca, tus buzones y tus plataformas, y lo
 mantenemos al día.
+
+**Qué necesitas:** un hospedaje web y un dominio propio. Recomendamos un
+hospedaje *DMCA ignored*, que no retira el sitio ante avisos de derechos de autor.
+
+**Vídeos:** presentaciones y tutoriales del sistema en
+[esta lista de YouTube](https://youtube.com/playlist?list=PLyDRJN_qrsyXe7OHqQV_w7kECBchg8sZR).
 
 Rafael Blanco, para Grupos Digitales
 
+- Comprar: [gruposdigitales.com/store/sistemas-web](https://gruposdigitales.com/store/sistemas-web)
 - Web: [gruposdigitales.com](https://gruposdigitales.com)
 - Correo: info@gruposdigitales.com
 - WhatsApp: [+1 317 779 0136](https://wa.me/13177790136)
+- Vídeos: [lista de YouTube](https://youtube.com/playlist?list=PLyDRJN_qrsyXe7OHqQV_w7kECBchg8sZR)
 - Presentación: [PDF de 14 diapositivas](presentacion/CV5-presentacion.pdf)
 
 ## Novedades
 
+- **27-oct-2026** · Ya se puede comprar directamente en la tienda de Grupos Digitales, y hay una lista de vídeos con presentaciones y tutoriales.
 - **27-oct-2026** · Publicación de la vitrina, con su presentación en PDF descargable.
 
 Registro completo: [CHANGELOG.md](CHANGELOG.md).
