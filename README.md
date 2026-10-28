@@ -152,8 +152,6 @@ hospedaje *DMCA ignored*, que no retira el sitio ante avisos de derechos de auto
 **Vídeos:** presentaciones y tutoriales del sistema en
 [esta lista de YouTube](https://youtube.com/playlist?list=PLyDRJN_qrsyXe7OHqQV_w7kECBchg8sZR).
 
-Rafael Blanco, para Grupos Digitales
-
 - Comprar: [gruposdigitales.com/store/sistemas-web](https://gruposdigitales.com/store/sistemas-web)
 - Web: [gruposdigitales.com](https://gruposdigitales.com)
 - Correo: info@gruposdigitales.com

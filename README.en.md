@@ -149,8 +149,6 @@ hosting, which does not take the site down on copyright notices.
 **Videos:** presentations and tutorials of the system in
 [this YouTube playlist](https://youtube.com/playlist?list=PLyDRJN_qrsyXe7OHqQV_w7kECBchg8sZR) (in Spanish).
 
-Rafael Blanco, for Grupos Digitales
-
 - Buy: [gruposdigitales.com/store/sistemas-web](https://gruposdigitales.com/store/sistemas-web)
 - Web: [gruposdigitales.com](https://gruposdigitales.com)
 - Email: info@gruposdigitales.com
