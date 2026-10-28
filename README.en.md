@@ -148,4 +148,10 @@ Rafael Blanco, for Grupos Digitales
 - WhatsApp: [+1 317 779 0136](https://wa.me/13177790136)
 - Presentation: [14-slide PDF](presentacion/CV5-presentacion.pdf) (in Spanish)
 
+## What's new
+
+- **27-Oct-2026** · Showcase published, with a downloadable PDF presentation.
+
+Full log: [CHANGELOG.md](CHANGELOG.md).
+
 © 2026 Grupos Digitales. See [LICENSE](LICENSE).
